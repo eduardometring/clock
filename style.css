@@ -1,0 +1,11 @@
+    body {
+        background-color: black;
+
+    }
+    #clock {
+        color: lawngreen;
+         font:bold 270px Arial;
+        padding: 150px;
+
+
+    }
